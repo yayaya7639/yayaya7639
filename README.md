@@ -13,6 +13,13 @@ Hiroki Yamaoka（山岡大輝）
 |  Apr 2014 - Mar 2017  |  Osaka Prefectural Shijonawate High School, Osaka, Japan  |
 <br>
 
+## **Experience**
+|  Duration  |  Detail  |
+| ---- | ---- |
+|  Jun 2022 - Now  |  Part-time, SoftBank Group Corp.  |
+|  Jul 2021 - Sep 2021  |  Research Intern, Data Science Research Laboratories of NEC Corporation  |
+<br>
+
 ## **Achievements**
 ### **Research**
 - DEIM2022（第14回データ工学と情報マネジメントに関するフォーラム）学生プレゼンテーション賞
@@ -23,3 +30,4 @@ Hiroki Yamaoka（山岡大輝）
   
 - Signate Master (gold×1, silver×1, bronze×1)
   - SIGNATE ソニーグループ合同 データ分析コンペティション 3rd/1353
+
