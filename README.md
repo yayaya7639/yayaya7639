@@ -31,3 +31,5 @@ Hiroki Yamaoka（山岡大輝）
 - Signate Master (gold×1, silver×1, bronze×1)
   - SIGNATE ソニーグループ合同 データ分析コンペティション 3rd/1353
 
+- Kaggle Master (になりたい)
+  - To be continued...
