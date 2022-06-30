@@ -8,8 +8,8 @@ Hiroki Yamaoka（山岡大輝）
 ## **Education**
 |  Duration  |  Detail  |
 | ---- | ---- |
-|  Apr 2021 - Now  |  Master of Artificial Intelligence, Kwansei Gakuin University, Hyogo, Japan  |
-|  Apr 2017 - Mar 2021  |  Bachelor of Human System Interaction, Kwansei Gakuin University, Hyogo, Japan  |
+|  Apr 2021 - Now  |  Master of Engineering, Kwansei Gakuin University, Hyogo, Japan  |
+|  Apr 2017 - Mar 2021  |  Bachelor of Engineering, Kwansei Gakuin University, Hyogo, Japan  |
 |  Apr 2014 - Mar 2017  |  Osaka Prefectural Shijonawate High School, Osaka, Japan  |
 <br>
 
