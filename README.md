@@ -16,13 +16,13 @@ Hiroki Yamaoka（山岡大輝）
 ## **Experience**
 |  Duration  |  Detail  |
 | ---- | ---- |
-|  Jun 2022 - Now  |  Part-time, SoftBank Group Corp.  |
+|  Jun 2022 - Now  |  Part-time Engineer, SoftBank Group Corp.  |
 |  Jul 2021 - Sep 2021  |  Research Intern, Data Science Research Laboratories of NEC Corporation  |
 <br>
 
 ## **Achievements**
 ### **Research**
-- DEIM2022（第14回データ工学と情報マネジメントに関するフォーラム）学生プレゼンテーション賞
+- DEIM2022（第20回日本データベース学会年次大会）学生プレゼンテーション賞
 ### **Others**
 - バンダイナムコ研究所・データサイエンス・チャレンジ2021 3rd/166
   
